@@ -1,0 +1,134 @@
+{
+  "main": {
+    "name":"Dan Shrout",
+    "description":"I am a Full Stack Web Developer and primarily use react and nodejs to develop web apps",
+    "image":"profilepic.jpg",
+    "contactmessage":"Contact form is under construction. Please use my contact info to contact me!",
+    "email": "danshrout1@gmail.com",
+    "phone": "562-846-8831",
+    "github":"https://github.com/Schraut",
+    "address":{
+      "street":"(Your Street)",
+      "city":"Los Angeles",
+      "state":"California"
+    },
+    "website": "http://www.timbakerdev.com",
+    "social":[
+      {
+        "name":"twitter",
+        "url":"http://twitter.com/danshrout",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/dan-shrout/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/Schraut",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "education":[
+      {
+        "school":"Actualize Coding Bootcamp",
+        "degree":"Ruby on Rails Developer",
+        "graduated":"February 2018",
+        "description":"Intensive Coding Bootcamp: I took the intensive, 3-month Actualize bootcamp, where I learned Ruby, Rails, JavaScript, VueJS, and more. But most importantly, I learned how to think as a software engineer and gained the ability to tackle any new technology."
+      },
+      {
+        "school":"Zero To Mastery Academy",
+        "degree":"Computer Software Engineering",
+        "graduated":"January 2020 - Present",
+        "description":"Learning everything computer science related including: full stack react development, computer science, web development, algorithms, datastructures, and much more."
+      }
+    ],
+    "work":[
+      {
+        "company":"Freelancing & Wordpress Developer",
+        "title":"Full Stack Web and Wordpress Developer",
+        "years":"February 2015 - Present",
+        "description":"Currently maintaining WordPress sites. Built and shipped multiple websites using HTML, CSS, PHP, SQL, Bootstrap, jQuery and Javascript. Hosted sites on cPanel."
+      },
+      {
+        "company":"IDMRTV",
+        "title":"Android Developer",
+        "years":"September 2019 - April 2020",
+        "description":"Redesigned entire frontend. Added dimensions to XML files to fit screen sizes across all devices. Replaced existing buttons with material design icons."
+      },
+      {
+        "company":"Staffed",
+        "title":"Lead Android Developer",
+        "years":"November 2018 - September 2019",
+        "description":"Solely built and shipped an employee management platform for a local business with Android Studio. Designed to look and function identical to the iOS app using Java and XML. Authenticated users, stored user data using Firebase."
+      },
+      {
+        "company":"Actualize",
+        "title":"Ruby on Rails Developer",
+        "years":"November 2018 - September 2019",
+        "description":"Worked with a software development team in an agile environment. Personally added features to the real CRM that Actualize uses to manage its prospective applicants. The CRM allows a user to call and text a lead through the Twilio API. Also, worked on features involving its UI, including an internal restructuring that transformed the app into a Single Page Application, making it much easier to use. "
+      }
+    ],
+    "skills":[
+      {
+        "name":"Javascript",
+        "level":"90%"
+      },
+      {
+        "name":"Reactjs",
+        "level":"80%"
+      },
+      {
+        "name":"Node.js",
+        "level":"75%"
+      },
+      {
+        "name":"Redux",
+        "level":"90%"
+      },
+      {
+        "name":"Ruby on rails",
+        "level":"70%"
+      },
+      {
+        "name":"JAVA",
+        "level":"70%"
+      },
+      {
+        "name":"HTML",
+        "level":"90%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"SASS",
+        "level":"70%"
+      },
+      {
+        "name":"Git",
+        "level":"90%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"New Threads Clothing",
+        "category":"An E-Commerce site built with React, Node.js and Redux",
+        "image":"new-threads-clothing.jpg",
+        "url":"https://new-threads-clothing.herokuapp.com/"
+      },
+      {
+        "title":"Food App",
+        "category":"An app to save favorite restaurants and recipes built with Ruby on Rails and Vue.js",
+        "image":"food_app.jpg",
+        "url":"https://blooming-bastion-17680.herokuapp.com/"
+      }
+    ]
+  }
+}
