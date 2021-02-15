@@ -1,7 +1,7 @@
 {
   "main": {
     "name":"Dan Shrout",
-    "description":"I am a Full Stack Web Developer and primarily use react and nodejs to develop web apps",
+    "description":"I am a Software Developer and use whatever technologies needed to get the job done.",
     "image":"profilepic.jpg",
     "contactmessage":"Contact form is under construction. Please use my contact info to contact me!",
     "email": "danshrout1@gmail.com",
@@ -37,7 +37,7 @@
         "school":"Actualize Coding Bootcamp",
         "degree":"Ruby on Rails Developer",
         "graduated":"February 2018",
-        "description":"Intensive Coding Bootcamp: I took the intensive, 3-month Actualize bootcamp, where I learned Ruby, Rails, JavaScript, VueJS, and more. But most importantly, I learned how to think as a software engineer and gained the ability to tackle any new technology."
+        "description":"I took the intensive, 3-month Actualize bootcamp, where I learned Ruby, Rails, JavaScript, VueJS, and more. But most importantly, I learned how to think as a software engineer and gained the ability to tackle any new technology."
       },
       {
         "school":"Zero To Mastery Academy",
@@ -48,28 +48,40 @@
     ],
     "work":[
       {
-        "company":"Freelancing & Wordpress Developer",
-        "title":"Full Stack Web and Wordpress Developer",
-        "years":"February 2015 - Present",
-        "description":"Currently maintaining WordPress sites. Built and shipped multiple websites using HTML, CSS, PHP, SQL, Bootstrap, jQuery and Javascript. Hosted sites on cPanel."
-      },
-      {
         "company":"IDMRTV",
         "title":"Android Developer",
         "years":"September 2019 - April 2020",
-        "description":"Redesigned entire frontend. Added dimensions to XML files to fit screen sizes across all devices. Replaced existing buttons with material design icons."
+        "description":"Redesigned entire frontend of Android app using Android Studio, Java, XML, and Material Design giving it a clean and professional look while increasing page load speed by 10%. Designed all screen sizes on all phones and tablets using XML to solve the problem of fitting all UI elements into each device screen. Replaced big buttons with icons using XML and Material Design resulting in a 20% decrease in size which allowed more room on each screen size for all UI elements to fit correctly. Added a splash screen to display the logo of the company and to let the user know the app is loading using Java and XML."
       },
       {
         "company":"Staffed",
-        "title":"Lead Android Developer",
+        "title":"Cofounder & Lead Android Developer",
         "years":"November 2018 - September 2019",
-        "description":"Solely built and shipped an employee management platform for a local business with Android Studio. Designed to look and function identical to the iOS app using Java and XML. Authenticated users, stored user data using Firebase."
+        "description":"Collaborated with the team and created a mockup of our app, defined user flowchart, navigation structure, and architecture of database using Adobe XD. Pair programmed with the team to design and build the app database using Firebase Firestore which allowed iOS, Web and Android to save all data in one place. Solely created Android app using Android Studio, Java, and XML to begin adding features. Created features for users to create an account, sign in, and sign out with Java, Firebase Auth, and XML."
+      },
+      {
+        "company":"Freelancing",
+        "title":"Wordpress Developer",
+        "years":"July 2019 - August 2019",
+        "description":"Setup hosting and domain name using godaddy.com using the domain name chosen by my client. Installed WordPress theme and formatted it to hold all information about the art gallery. Installed plugin for photo gallery that the client could add, edit, and or delete photos whenever needed."
+      },
+      {
+        "company":"Freelancing",
+        "title":"Wordpress Developer",
+        "years":"February 2019 - March 2019",
+        "description":"Created WordPress site and installed theme of the clients choice to display company information and the inventory to be sold. Installed photo gallery plugin and set it up to where the client could add, edit and or delete photos of inventory whenever needed. Created separate pages for each individual category of inventory which allowed potential buyers to navigate throughout the site with ease."
       },
       {
         "company":"Actualize",
         "title":"Ruby on Rails Developer",
         "years":"November 2018 - September 2019",
-        "description":"Worked with a software development team in an agile environment. Personally added features to the real CRM that Actualize uses to manage its prospective applicants. The CRM allows a user to call and text a lead through the Twilio API. Also, worked on features involving its UI, including an internal restructuring that transformed the app into a Single Page Application, making it much easier to use. "
+        "description":"Added search bar to the Actualize CRM to assist admin searching for applicants using Ruby on Rails, Javascript, Vue.js, and CSS that improved lookup speed by 30%. Pair programmed to integrate Twilio API using Ruby on Rails, Javascript, and Twilio API that saved the company time and money by avoiding the use of a cell phone for sending text and voice messages. Pair programmed to convert the old website into a single page application with Ruby on Rails, Vue.js, Javascript, and CSS which improved page loading speed by 25%."
+      },
+      {
+        "company":"Freelancing",
+        "title":"Web Developer",
+        "years":"March 2017 - June 2017",
+        "description":"Converted old website into a single page website using HTML, jQuery, and Javascript which increased page loading speed by 50%."
       }
     ],
     "skills":[
@@ -90,6 +102,10 @@
         "level":"90%"
       },
       {
+        "name":"PostgreSQL",
+        "level":"90%"
+      },
+      {
         "name":"Ruby on rails",
         "level":"70%"
       },
@@ -99,11 +115,15 @@
       },
       {
         "name":"HTML",
-        "level":"90%"
+        "level":"100%"
       },
       {
         "name":"CSS",
-        "level":"90%"
+        "level":"100%"
+      },
+      {
+        "name":"Firebase",
+        "level":"70%"
       },
       {
         "name":"SASS",
@@ -112,6 +132,10 @@
       {
         "name":"Git",
         "level":"90%"
+      },
+      {
+        "name":"Android",
+        "level":"70%"
       }
     ]
   },
@@ -122,6 +146,12 @@
         "category":"An E-Commerce site built with React, Node.js and Redux",
         "image":"new-threads-clothing.jpg",
         "url":"https://new-threads-clothing.herokuapp.com/"
+      },
+      {
+        "title":"Monsters",
+        "category":"A simple react app that displays cartoons of friendly monsters with their names and emails",
+        "image":"monsters.jpg",
+        "url":"https://schraut.github.io/monsters/"
       },
       {
         "title":"Food App",

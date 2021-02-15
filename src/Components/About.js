@@ -25,9 +25,9 @@ class About extends Component {
             <h2>About Me</h2>
 
             {/* <p>{bio}</p> */}
-            <p>I am a Full Stack Developer with over 5 years of experience building websites, web and mobile applications. 
-               Along the way in my career, I discovered React and all the amazing things I can build with it. With all the many 
-               languages and frameworks to choose from, I discovered React is my favorite and works well for me.
+            <p>I'm a self taught Software Developer with over 5 years of experience including Full Stack 
+               Web Development, React, Vue.js, Ruby on Rails, and Android Development. Learning programming 
+               has expanded my brain and made me a great problem solver.
             </p>
             <div className="row">
                <div className="columns contact-details">
