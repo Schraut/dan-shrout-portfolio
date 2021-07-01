@@ -1,7 +1,8 @@
 {
   "main": {
     "name":"Dan Shrout",
-    "description":"I am a Software Developer and use whatever technologies needed to get the job done.",
+    "description":"Full Stack Software Developer specializing in React",
+    "bio": "I'm a Software Developer with over 5 years of experience including Full Stack Web and Android Development. Learning programming has expanded my brain and made me a great problem solver. Let's connect!",
     "image":"profilepic.jpg",
     "contactmessage":"Contact form is under construction. Please use my contact info to contact me!",
     "email": "danshrout1@gmail.com",
@@ -9,7 +10,7 @@
     "github":"https://github.com/Schraut",
     "address":{
       "street":"(Your Street)",
-      "city":"Los Angeles",
+      "city":"Long Beach",
       "state":"California"
     },
     "website": "http://www.timbakerdev.com",
