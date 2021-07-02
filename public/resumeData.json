@@ -2,7 +2,7 @@
   "main": {
     "name":"Dan Shrout",
     "description":"Full Stack Software Developer specializing in React",
-    "bio": "I'm a Software Developer with over 5 years of experience including Full Stack Web and Android Development. Learning programming has expanded my brain and made me a great problem solver. Let's connect!",
+    "bio": "I'm a Software Developer with over 5 years of experience with a passion for technology. Computer programming has expanded my brain and made me a great problem solver. Let's connect!",
     "image":"profilepic.jpg",
     "contactmessage":"Contact form is under construction. Please use my contact info to contact me!",
     "email": "danshrout1@gmail.com",
@@ -36,7 +36,7 @@
     "education":[
       {
         "school":"Actualize Coding Bootcamp",
-        "degree":"Ruby on Rails Developer",
+        "degree":"Full Stack Web Development",
         "graduated":"February 2018",
         "description":"I took the intensive, 3-month Actualize bootcamp, where I learned Ruby, Rails, JavaScript, VueJS, and more. But most importantly, I learned how to think as a software engineer and gained the ability to tackle any new technology."
       },
@@ -49,14 +49,20 @@
     ],
     "work":[
       {
+        "company":"Team Hack",
+        "title":"React Developer",
+        "years":"May 2021 - Present",
+        "description":"Open source React project where we are building a clone of Robinhood. Initialized and configured app with create-react-app which allowed my team and I to begin adding features. Pair programmed to install and configure TypeScript with linting to keep code consistent with all developers. Performed code reviews, approved pull requests, and merged to the main branch after passing all tests. Built header component with react-router-dom to handle navigation between all pages of the app."
+      },
+      {
         "company":"IDMRTV",
         "title":"Android Developer",
         "years":"September 2019 - April 2020",
-        "description":"Redesigned entire frontend of Android app using Android Studio, Java, XML, and Material Design giving it a clean and professional look while increasing page load speed by 10%. Designed all screen sizes on all phones and tablets using XML to solve the problem of fitting all UI elements into each device screen. Replaced big buttons with icons using XML and Material Design resulting in a 20% decrease in size which allowed more room on each screen size for all UI elements to fit correctly. Added a splash screen to display the logo of the company and to let the user know the app is loading using Java and XML."
+        "description":"Redesigned entire frontend of mobile car dealership marketing tool using Android Studio, Java, XML, and Material Design, resulting in a modern UI and professional appearance. Designed and built all necessary files for UI elements to fit consistently across all screen sizes of Android phones using Java and XML which solved the previous issue of missing elements on smaller devices. Installed icons with a name specific to its action using Java, Android, XML, and Material Design, making it self explanatory to the users."
       },
       {
         "company":"Staffed",
-        "title":"Cofounder & Lead Android Developer",
+        "title":"Cofounder, Web & Android Engineer",
         "years":"November 2018 - September 2019",
         "description":"Collaborated with the team and created a mockup of our app, defined user flowchart, navigation structure, and architecture of database using Adobe XD. Pair programmed with the team to design and build the app database using Firebase Firestore which allowed iOS, Web and Android to save all data in one place. Solely created Android app using Android Studio, Java, and XML to begin adding features. Created features for users to create an account, sign in, and sign out with Java, Firebase Auth, and XML."
       },
@@ -76,13 +82,13 @@
         "company":"Actualize",
         "title":"Ruby on Rails Developer",
         "years":"November 2018 - September 2019",
-        "description":"Added search bar to the Actualize CRM to assist admin searching for applicants using Ruby on Rails, Javascript, Vue.js, and CSS that improved lookup speed by 30%. Pair programmed to integrate Twilio API using Ruby on Rails, Javascript, and Twilio API that saved the company time and money by avoiding the use of a cell phone for sending text and voice messages. Pair programmed to convert the old website into a single page application with Ruby on Rails, Vue.js, Javascript, and CSS which improved page loading speed by 25%."
+        "description":"Added search bar to Actualize CRM to assist admin searching for applicants using Ruby on Rails, Javascript, Vue.js, and CSS that improved lookup speed by 10%. Pair programmed to integrate Twilio API using Ruby on Rails, Javascript, and Vue.js that saved company time and money by avoiding use of a cell phone for sending text and voice messages. Pair programmed to convert the company website into a single page application with Ruby on Rails, Vue.js, Javascript, and CSS which improved page loading speed by 20%."
       },
       {
         "company":"Freelancing",
         "title":"Web Developer",
         "years":"March 2017 - June 2017",
-        "description":"Converted old website into a single page website using HTML, jQuery, and Javascript which increased page loading speed by 50%."
+        "description":"Converted website into a single page application using HTML, CSS, jQuery, and Javascript resulting in a modern and professional UI making it easy to navigate for any user."
       }
     ],
     "skills":[
