@@ -9,7 +9,7 @@
     "phone": "562-846-8831",
     "github":"https://github.com/Schraut",
     "address":{
-      "street":"(Your Street)",
+      "street":"",
       "city":"Long Beach",
       "state":"California"
     },
@@ -162,9 +162,15 @@
       },
       {
         "title":"Food App",
-        "category":"An app to save favorite restaurants and recipes built with Ruby on Rails and Vue.js",
+        "category":"Save your favorite restaurants and recipes built with Ruby on Rails and Vue.js",
         "image":"food_app.jpg",
         "url":"https://blooming-bastion-17680.herokuapp.com/"
+      },
+      {
+        "title":"To Do List",
+        "category":"To do list built with React Native",
+        "image":"to-do-list.jpg",
+        "url":"https://expo.dev/@danshrout/to-do-list"
       }
     ]
   }
